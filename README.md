@@ -20,6 +20,6 @@ Having encountered a curiosity for a new developing technology in the late 1990'
 
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/alegratis"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<li style="display: inline-block; list-style: none; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/alegratis"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
