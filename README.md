@@ -1,6 +1,6 @@
 Hi 👋 My name is Alejandro Pino
 ===============================
-Front End developer
+Full Stack Developer
 -------------------
 Strong background in the visual aspect of development, but equally intrigued by its processes and ever growing tool landscape. Passionate about the future of technology and rooted in sustainability. 
 
