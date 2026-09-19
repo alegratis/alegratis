@@ -6,7 +6,7 @@ Strong background in the visual aspect of development, but equally intrigued by 
 
 Having encountered a curiosity for a new developing technology in the late 1990's and early 2000's, figuring out how these "computer-things" worked in and out became immediately a passion. Learning the languages, the processes and seeing it develop over the last two decades has been exhilarating, to say the least, and it brings all the happiness to have been along for the ride.
 * 🌍  I'm based in St. Catharines, ON, Canada*
-* * ✉️  You can contact me at [info@alejandropino.co](mailto:info@alejandropino.co)*
+* * ✉️  You can contact me at [info@alejandro-pino.com](mailto:info@alejandro-pino.com)*
 * * 🧠  I'm learning Astro, Bun* 🤝  I'm open to collaborating on anything web related
 
 ### Skills
