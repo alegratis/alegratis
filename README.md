@@ -1,4 +1,4 @@
-# I'm Alejandro, and I'm a fullstack developer.
+# I'm Alejandro. I'm a fullstack developer.
 -------------------
 Focusing heavily on GIS and Map Development. Democratizing access to data and information through maps and analysis. 
 
